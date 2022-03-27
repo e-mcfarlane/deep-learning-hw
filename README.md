@@ -10,9 +10,9 @@
 ## Evaluate the performance of each model
 
 Model based on closing price prediction
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "Model based on closing price prediction")
+![Alt text](https://github.com/e-mcfarlane/deep-learning-hw/blob/main/ClosePredictChart.jpg "Model based on closing price prediction")
 Model based on FNG
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "Model based on FNG")
+![Alt text](https://github.com/e-mcfarlane/deep-learning-hw/blob/main/FngPredictChart.jpg "Model based on FNG")
 
 ## Questions:
 <ul>
